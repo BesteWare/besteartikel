@@ -23,17 +23,17 @@ Gorilla Sports liefert 1 kg Hanteln mit einer strapazierfähigen Neopren-Beschic
 [Preis prüfen auf Amazon](https://amzn.to/3ZnoIif)
 
 ### MIWEBA Neopren-Hanteln 2er-Set
-![[miwebahanteln.png]]]
+![[miwebahanteln.png]]
 Dieses 2er-Set von Miweba besticht durch eine weiche Neopren-Beschichtung und ergonomische Griffe. Die 1 kg Hanteln sind sechseckig, um Rollen zu verhindern, und eignen sich für Krafttraining oder Pilates. Die grüne Farbe ist ansprechend, und die Qualität überzeugt auch bei intensivem Gebrauch. Perfekt für Anfänger, die ein vielseitiges Set wollen.
 [Preis prüfen auf Amazon](https://amzn.to/4j8AGTT)
 
 ### Reebok RAWT-18001 Hanteln
-![[reebokrawthanteln.png]]]
+![[reebokrawthanteln.png]]
 Die Reebok 1 kg Hanteln sind für Profis und Anfänger gleichermaßen geeignet. Die Vinyl-Beschichtung sorgt für Langlebigkeit, während der ergonomische Griff sicheren Halt bietet. Ihr schlankes, schwarzes Design ist zeitlos, und sie eignen sich für Cardio- oder Krafttraining. Diese Hanteln sind ideal für alle, die Markenqualität schätzen.
 [Preis prüfen auf Amazon](https://amzn.to/3FbzaT9)
 
 ### Schildkröt Hantel 4-Farb-Karton
-![[schildkröthanteln.png]]]
+![[schildkröthanteln.png]]
 Die Schildkröt 1 kg Hanteln kommen in einem farbenfrohen Design, das Motivation ins Training bringt. Die Neopren-Beschichtung ist weich und rutschfest, der Griff liegt gut in der Hand. Diese Hanteln sind perfekt für Aerobic oder leichte Kraftübungen. Ihre Vielseitigkeit macht sie zu einer tollen Wahl für Home-Workouts.
 [Preis prüfen auf Amazon](https://amzn.to/4dkuM0U)
 

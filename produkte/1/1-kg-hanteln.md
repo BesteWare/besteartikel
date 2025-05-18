@@ -14,8 +14,9 @@ Das AmazonBasics 2er-Set bietet 1 kg Hanteln mit einer weichen Neopren-Beschicht
 [Preis prüfen auf Amazon](https://amzn.to/3SCT909)
 
 ### Tunturi Neopren-Dumbbell Orange Kurzhanteln
-![[tunturiorangekurzhantel.png]]
+<img src="https://m.media-amazon.com/images/I/61zObk0qHzL._AC_SL1500_.jpg" alt="Tunturi Neopren-Dumbbell Orange Kurzhanteln" width="700" />
 Die Tunturi 1 kg Hanteln in leuchtendem Orange sind aus robustem Neopren gefertigt und bieten einen sicheren, rutschfesten Griff. Ihr kompaktes Design macht sie ideal für Aerobic oder Yoga. Die Beschichtung ist langlebig und schützt Böden. Diese Hanteln sind besonders für farbenfrohe Workouts geeignet und motivieren durch ihr ansprechendes Design.
+
 [Preis prüfen auf Amazon](https://amzn.to/43yqyzm)
 
 ### Gorilla Sports Neopren-Kurzhanteln

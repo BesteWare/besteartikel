@@ -10,6 +10,7 @@ Hier sind die besten 1 kg Hanteln für Zuhause, basierend auf Material, Ergonomi
 ### AmazonBasics Neopren-Hanteln 2er-Set
 <img src="https://m.media-amazon.com/images/I/81nkc75eR8L._AC_SL1500_.jpg" alt="AmazonBasics 1kg Hanteln" width="700" />
 Das AmazonBasics 2er-Set bietet 1 kg Hanteln mit einer weichen Neopren-Beschichtung, die rutschfest und bodenschonend ist. Der sechseckige Kopf verhindert Rollen, ideal für Pausen während des Workouts. Der ergonomische Griff liegt gut in der Hand, auch bei längerem Training. Perfekt für Anfänger und Pilates-Fans, de ein zuverlässiges, preisgünstiges Set suchen. Die hellblaue Farbe sorgt für eine frische Optik.
+
 [Preis prüfen auf Amazon](https://amzn.to/3SCT909)
 
 ### Tunturi Neopren-Dumbbell Orange Kurzhanteln

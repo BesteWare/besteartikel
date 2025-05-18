@@ -51,8 +51,10 @@ Diese 1 kg Hanteln überzeugen mit einer langlebigen Vinyl-Beschichtung, die Bö
 [Preis prüfen auf Amazon](https://amzn.to/4jWT6Z7)
 
 ### SONGMICS Kurzhanteln Neopren
-![[songmicskurzhantel.png]]
+
+<img src="https://m.media-amazon.com/images/I/61kBIczv+UL._AC_SL1500_.jpg" alt="SONGMICS Kurzhanteln Neopren" width="700" />
 Das SONGMICS 2er-Set mit 1 kg Hanteln überzeugt durch eine hochwertige Neopren-Beschichtung und ein sechseckiges Design, das ein Wegrollen verhindert. Der Griff ist ergonomisch geformt, ideal für längeres Training. In einem frischen Grün gehalten, sind sie perfekt für Yoga, Pilates oder Krafttraining zu Hause.
+
 [Preis prüfen auf Amazon](https://amzn.to/3YIjOwc)
 
 ## Vorteile von 1 kg Hanteln

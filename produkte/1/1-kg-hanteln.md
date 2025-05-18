@@ -45,8 +45,9 @@ Die Schildkröt 1 kg Hanteln kommen in einem farbenfrohen Design, das Motivation
 [Preis prüfen auf Amazon](https://amzn.to/4dkuM0U)
 
 ### Neopren-Vinylbeschichtete Kurzhanteln 
-![[vinylbeschichtetehanteln.png]]
+<img src="https://m.media-amazon.com/images/I/61bdZ4TYmtL._AC_SL1500_.jpg" alt="Neopren-Vinylbeschichtete Kurzhanteln" width="700" />
 Diese 1 kg Hanteln überzeugen mit einer langlebigen Vinyl-Beschichtung, die Böden schont und einen sicheren Griff bietet. Ihr ergonomisches Design ist ideal für Anfänger, Reha oder Heimübungen wie Pilates und Krafttraining. Die kompakte Form und die robuste Verarbeitung machen sie zu einem zuverlässigen Begleiter für vielseitige Workouts. In einem neutralen Design gehalten, passen sie in jede Trainingsumgebung.
+
 [Preis prüfen auf Amazon](https://amzn.to/4jWT6Z7)
 
 ### SONGMICS Kurzhanteln Neopren

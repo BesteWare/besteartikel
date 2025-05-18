@@ -20,8 +20,9 @@ Die Tunturi 1 kg Hanteln in leuchtendem Orange sind aus robustem Neopren geferti
 [Preis prüfen auf Amazon](https://amzn.to/43yqyzm)
 
 ### Gorilla Sports Neopren-Kurzhanteln
-![[gorillasportskurzhantel.png]]
-Gorilla Sports liefert 1 kg Hanteln mit einer strapazierfähigen Neopren-Beschichtung, die Komfort und Griffigkeit garantiert. Das flache Design verhindert ein Wegrollen, und die violette Farbe hebt sich ab. Ideal für Krafttraining oder Reha-Übungen, bieten sie ein gutes Preis-Leistungs-Verhältnis für Home-Workouts. Die Hanteln sind robust und langlebig.
+<img src="https://m.media-amazon.com/images/I/61zamdZUCyL._AC_SL1500_.jpg" alt="Gorilla Sports Neopren-Kurzhanteln" width="700" />
+Gorilla Sports liefert 1 kg Hanteln mit einer strapazierfähigen Neopren-Beschichtung, die Komfort und Griffigkeit garantiert. Das flache Design verhindert ein Wegrollen, und die grüne Farbe hebt sich ab. Ideal für Krafttraining oder Reha-Übungen, bieten sie ein gutes Preis-Leistungs-Verhältnis für Home-Workouts. Die Hanteln sind robust und langlebig.
+
 [Preis prüfen auf Amazon](https://amzn.to/3ZnoIif)
 
 ### MIWEBA Neopren-Hanteln 2er-Set

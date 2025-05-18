@@ -8,7 +8,7 @@ Suchst du eine einfache Möglichkeit, mit Krafttraining zu starten? 1 kg Hanteln
 Hier sind die besten 1 kg Hanteln für Zuhause, basierend auf Material, Ergonomie und Kundenfeedback:
 
 ### AmazonBasics Neopren-Hanteln 2er-Set
-![AmazonBasics 1kg Hanteln](https://m.media-amazon.com/images/I/81nkc75eR8L._AC_SL1500_.jpg)
+<img src="https://m.media-amazon.com/images/I/81nkc75eR8L._AC_SL1500_.jpg" alt="AmazonBasics 1kg Hanteln" width="500" />
 Das AmazonBasics 2er-Set bietet 1 kg Hanteln mit einer weichen Neopren-Beschichtung, die rutschfest und bodenschonend ist. Der sechseckige Kopf verhindert Rollen, ideal für Pausen während des Workouts. Der ergonomische Griff liegt gut in der Hand, auch bei längerem Training. Perfekt für Anfänger und Pilates-Fans, de ein zuverlässiges, preisgünstiges Set suchen. Die hellblaue Farbe sorgt für eine frische Optik.
 [Preis prüfen auf Amazon](https://amzn.to/3SCT909)
 

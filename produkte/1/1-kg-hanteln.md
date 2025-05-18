@@ -32,8 +32,9 @@ Dieses 2er-Set von Miweba besticht durch eine weiche Neopren-Beschichtung und er
 [Preis prüfen auf Amazon](https://amzn.to/3GZdvhI)
 
 ### Reebok RAWT-18001 Hanteln
-![[reebokrawthanteln.png]]
+<img src="https://m.media-amazon.com/images/I/31-1TF2BT2L._AC_SL1000_.jpg" alt="Reebok RAWT-18001 Hanteln" width="700" />
 Die Reebok 1 kg Hanteln sind für Profis und Anfänger gleichermaßen geeignet. Die Vinyl-Beschichtung sorgt für Langlebigkeit, während der ergonomische Griff sicheren Halt bietet. Ihr schlankes, schwarzes Design ist zeitlos, und sie eignen sich für Cardio- oder Krafttraining. Diese Hanteln sind ideal für alle, die Markenqualität schätzen.
+
 [Preis prüfen auf Amazon](https://amzn.to/3FbzaT9)
 
 ### Schildkröt Hantel 4-Farb-Karton

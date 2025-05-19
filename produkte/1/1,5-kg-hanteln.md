@@ -9,7 +9,7 @@ Der perfekte Einstieg ins Krafttraining oder die ideale Ergänzung für dein Hom
 Hier sind sieben der besten 1,5 kg Hanteln, mit Details zu Material, Griff, Design und Besonderheiten.
 ### 1. SONGMICS Kurzhantel Gymnastikhantel, 2er-Set, 1,5 kg
 <img src="https://m.media-amazon.com/images/I/61uYcmBTXCL._AC_SL1500_.jpg" alt="SONGMICS Kurzhantel Gymnastikhantel, 2er-Set, 1,5 kg" width="700" />
-Das SONGMICS Hantelset besteht aus Gusseisen mit einer schweißresistenten Neopren-Beschichtung in Blau. Die hexagonale Form verhindert Wegrollen, ideal für Home-Workouts. Der ergonomische Griff bietet sicheren Halt, auch bei intensiven Übungen. Kunden loben die Langlebigkeit und das kompakte Design, das wenig Platz beansprucht. Perfekt für Anfänger und Pilates.
+Das SONGMICS Hantelset besteht aus Gusseisen mit einer schweißresistenten Neopren-Beschichtung in Orange. Die hexagonale Form verhindert Wegrollen, ideal für Home-Workouts. Der ergonomische Griff bietet sicheren Halt, auch bei intensiven Übungen. Kunden loben die Langlebigkeit und das kompakte Design, das wenig Platz beansprucht. Perfekt für Anfänger und Pilates.
 
 [Preis prüfen auf Amazon](https://amzn.to/3FedA0w)
 

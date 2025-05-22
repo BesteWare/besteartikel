@@ -37,7 +37,7 @@ Mit den Reebok Hanteln im 2er-Set mit je 1 kg bringst du dein Krafttraining zu H
 
 [Preis prüfen auf Amazon](https://amzn.to/3FbzaT9)
 
-### Schildkröt Hantel 4-Farb-Karton
+### Schildkröt Vinyl Hanteln - 1Kg
 
 <img src="https://m.media-amazon.com/images/I/61XHJTwzFIL._AC_SL1500_.jpg" alt="Schildkröt Hantel 4-Farb-Karton" width="700" />
 Die Schildkröt 1 kg Hanteln kommen in einem farbenfrohen Design, das Motivation ins Training bringt. Die Neopren-Beschichtung ist weich und rutschfest, der Griff liegt gut in der Hand. Diese Hanteln sind perfekt für Aerobic oder leichte Kraftübungen. Ihre Vielseitigkeit macht sie zu einer tollen Wahl für Home-Workouts.

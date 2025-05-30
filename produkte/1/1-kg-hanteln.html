@@ -1,13 +1,49 @@
-      </script><!DOCTYPE html>
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>1 kg Hanteln: Kleine Gewichte, großer Fitness-Erfolg</title>
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://besteware.github.io/besteartikel/produkte/1/1-kg-hanteln.html">
-    <meta name="description" content="Erfahre, warum 1 kg Hanteln ideal für Anfänger und Reha-Training sind. Tipps, Vergleiche und Empfehlungen.">
-        <style>
+    <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -55,8 +91,7 @@
         <h3>AmazonBasics Neopren-Hanteln 2er-Set</h3>
         <img src="https://m.media-amazon.com/images/I/81nkc75eR8L._AC_SL1500_.jpg" alt="AmazonBasics 1kg Hanteln">
         <p>Die AmazonBasics Neopren-Hanteln im 2er-Set mit jeweils 1 kg in einem ansprechenden Violett sind die perfekte Wahl für dein Krafttraining, egal ob du zu Hause oder im Fitnessstudio trainierst. Diese Kurzhanteln bestehen aus robustem Gusseisen und sind mit einer schweißresistenten Neopren-Beschichtung versehen, die nicht nur für eine lange Lebensdauer sorgt, sondern auch einen sicheren und bequemen Griff bietet. Die griffige Neopren-Oberfläche ermöglicht dir einen festen Halt, selbst bei schweißtreibenden Workouts, und macht die Hanteln sowohl für drinnen als auch draußen geeignet. Diese Beschichtung schützt die Hanteln vor Rost und schont deine Böden, was sie besonders praktisch für das Training zu Hause macht. Ein tolles Feature ist die sechseckige Form, die ein Wegrollen der Hanteln verhindert. So bleiben sie sicher an ihrem Platz, was nicht nur die Sicherheit während des Trainings erhöht, sondern auch die Lagerung erleichtert.</p>
-        <p>Krafttraining mit diesen Hanteln hilft dir, Muskeln aufzubauen, deine Muskulatur zu definieren, Kalorien zu verbrennen, die Knochengesundheit zu steigern und dein Energielevel zu erhöhen – Vorteile, die sowohl Anfänger als auch erfahrene Fitnessliebhaber zu schätzen wissen. Die Hanteln sind in Gewichten von 1 kg bis 5 kg erhältlich, sodass du das passende Gewicht für deine Trainingsroutine, deine Vorlieben und die gewünschte Wiederholungsanzahl auswählen kannst. Jede Hantel ist deutlich mit dem Gewicht auf der Endkappe gekennzeichnet, und die violette Farbcodierung erleichtert das schnelle Erkennen des 1-kg-Gewichts, besonders wenn du mit mehreren Hantelpaaren trainierst.</p> 
-        <p>Diese Hanteln sind vielseitig einsetzbar – ob für Bizepscurls, Schulterdrücken, Lunges oder andere Übungen, sie passen sich jedem Trainingslevel an und sind ideal für Fitnesskurse oder das Training zu Hause. Mit einem unschlagbaren Preis-Leistungs-Verhältnis bieten die AmazonBasics Neopren-Hanteln hochwertige Qualität für ein effektives und kostengünstiges Training. Ihre kompakte Größe und das praktische Design machen sie zu einem unverzichtbaren Begleiter für dein Workout.</p>
+        <p>Krafttraining mit diesen Hanteln hilft dir, Muskeln aufzubauen, deine Muskulatur zu definieren, Kalorien zu verbrennen, die Knochengesundheit zu steigern und dein Energielevel zu erhöhen – Vorteile, die sowohl Anfänger als auch erfahrene Fitnessliebhaber zu schätzen wissen. Die Hanteln sind in Gewichten von 1 kg bis 5 kg erhältlich, sodass du das passende Gewicht für deine Trainingsroutine, deine Vorlieben und die gewünschte Wiederholungsanzahl auswählen kannst. Jede Hantel ist deutlich mit dem Gewicht auf der Endkappe gekennzeichnet, und die violette Farbcodierung erleichtert das schnelle Erkennen des 1-kg-Gewichts, besonders wenn du mit mehreren Hantelpaaren trainierst. Diese Hanteln sind vielseitig einsetzbar – ob für Bizepscurls, Schulterdrücken, Lunges oder andere Übungen, sie passen sich jedem Trainingslevel an und sind ideal für Fitnesskurse oder das Training zu Hause. Mit einem unschlagbaren Preis-Leistungs-Verhältnis bieten die AmazonBasics Neopren-Hanteln hochwertige Qualität für ein effektives und kostengünstiges Training. Ihre kompakte Größe und das praktische Design machen sie zu einem unverzichtbaren Begleiter für dein Workout.</p>
         <p><a href="https://amzn.to/3SCT909">Preis prüfen auf Amazon</a></p>
     </div>
 
